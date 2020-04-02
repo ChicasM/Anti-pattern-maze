@@ -11,3 +11,9 @@ D:\Documents\Visual Studio Projects\Projects\ChicasM_MazeSolver\ChicasM_MazeSolv
 D:\Documents\Visual Studio Projects\Projects\ChicasM_MazeSolver\ChicasM_MazeSolver\obj\Debug\ChicasM_MazeSolver.csprojAssemblyReference.cache
 D:\Documents\Visual Studio Projects\Projects\ChicasM_MazeSolver\ChicasM_MazeSolver\obj\Debug\ChicasM_MazeSolver.exe
 D:\Documents\Visual Studio Projects\Projects\ChicasM_MazeSolver\ChicasM_MazeSolver\obj\Debug\ChicasM_MazeSolver.pdb
+D:\Documents\Visual Studio Projects\REPOS\New folder\ChicasM_MazeSolver\bin\Debug\ChicasM_MazeSolver.exe.config
+D:\Documents\Visual Studio Projects\REPOS\New folder\ChicasM_MazeSolver\bin\Debug\ChicasM_MazeSolver.exe
+D:\Documents\Visual Studio Projects\REPOS\New folder\ChicasM_MazeSolver\bin\Debug\ChicasM_MazeSolver.pdb
+D:\Documents\Visual Studio Projects\REPOS\New folder\ChicasM_MazeSolver\obj\Debug\ChicasM_MazeSolver.csprojAssemblyReference.cache
+D:\Documents\Visual Studio Projects\REPOS\New folder\ChicasM_MazeSolver\obj\Debug\ChicasM_MazeSolver.exe
+D:\Documents\Visual Studio Projects\REPOS\New folder\ChicasM_MazeSolver\obj\Debug\ChicasM_MazeSolver.pdb
